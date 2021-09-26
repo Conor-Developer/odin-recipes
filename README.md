@@ -1,0 +1,1 @@
+A project that involves building a basic website with a list of recipes.
